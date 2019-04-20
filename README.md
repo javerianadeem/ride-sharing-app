@@ -1,2 +1,1 @@
-# ride-sharing-app
-Prototype for ride sharing app
+# on_the_go
